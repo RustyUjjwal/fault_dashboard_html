@@ -1,0 +1,6 @@
+{
+  "name": "Fault Analyzer Dashboard",
+  "description": "Power system fault detection, classification, and bus location triage dashboard with CSV signal analysis, interactive 3-phase waveform charts, and a modular ML inference backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
